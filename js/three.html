@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Script</title>
+</head>
+<body>
+
+<script>
+
+let numFirst = prompt('Введіте перше число');
+let numSecond = prompt('Введіть друге число');
+let operator = prompt('Введіть знак операції');
+
+function calcResult(numFirst, numSecond, operator) {
+  return eval(`${numFirst}` + operator + `${numSecond}`);
+}
+
+alert(calcResult(numFirst, numSecond, operator));
+
+</script>
+
+</body>
+</html>
