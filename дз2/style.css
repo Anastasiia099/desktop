@@ -1,0 +1,142 @@
+
+*{
+margin:0;
+padding: 0;
+outline: none;
+border: none;
+}
+
+body {
+    font-family: "Myriad Pro";
+    font-size: 100%;
+    
+}
+.container {
+    width: 100%;
+    max-width: 1280px;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+}
+
+    .main-block {
+    font-size: 22px;
+    }
+    .text-block { 
+     margin-left: 330px;
+     text-align: left;
+    }
+ 
+    p { 
+       margin-top: 35px;
+       
+       }
+  
+        img {
+      
+            height: 570px;
+            padding-left: 120px;
+            margin-left: 200px;
+            margin-top: -460px;
+          
+        }
+    
+.menu {
+    font-size: 20px;
+    background-color: #35444f;
+    margin-right: auto;
+    margin-top: 61px;
+   padding-top: 30px;
+   padding-bottom: 22px;
+}
+
+.menu-item {
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 38px;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.menu a {
+    color: white;
+    text-align: center;
+    padding: 33px 43px;
+    text-decoration: none;
+    
+}
+.menu a:hover {
+    
+    background-color: #222f3a;
+    
+}
+header {
+    height: 250px;
+    }
+    .logo{
+       
+        margin-top: 61px;
+        text-align: left;
+        color: black;
+        font-family: "Roboto-Medium";
+        letter-spacing: 5px;    
+        font-size:55px; 
+        margin-left: auto;
+        
+    }
+    .logo>span {
+color: #4bcaff;
+text-decoration: none;
+    }
+
+    ul {
+       
+        display: inline-block; 
+       
+     list-style: none;
+             }
+     
+    .footermenu {
+        text-decoration: none;
+        text-align: center;
+        margin-bottom: 31px;
+        font-size: 21px;
+        background-color: #b4b7ba;
+        margin-right: auto;
+        margin-top: 52px;
+        padding-top: 28px;
+        padding-bottom: 28px;
+        
+    }
+    .footermenu a{
+        color: black;
+        text-align: justify;
+        padding:  30px;
+        text-decoration: none;
+    }
+    .sidebar {
+       
+        text-align: left;
+        font-size: 21px;
+        line-height: 40px;
+        border: 1px solid black;
+      width: 280px;
+ height: 455px;
+ 
+    }
+    .item {
+        margin-top: 3px;
+        margin-left: 3px;
+        padding-left: 40px;
+        padding-top: 26px;
+        padding-bottom: 20px;
+    }
+ 
+    .item:hover {
+        background-color: #dbdbdb;
+        
+    }
+    .footermenu a:hover{
+        color: #6794ad;
+    text-decoration: underline;
+    }

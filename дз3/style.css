@@ -1,0 +1,169 @@
+
+body {
+   background-image: url(backg.png);
+   background-size: 100%;
+    display: block;
+
+}
+.conteiner{
+    text-decoration: none;
+    width: 100%;
+    max-width: 1366px;
+    margin-left: 155px;
+    list-style: none;
+    color: white;
+}
+
+  .footermenu {
+      color: white;
+      
+      text-align: center;
+     
+      font-size: 14px;
+     margin-left: 100px;
+     margin-top: 70px;
+     margin-bottom: 22px;
+      
+      
+  }
+  .logo{
+       margin-right: 15px;
+   margin-left: 155px;
+    text-decoration: none;
+   
+   float: left;
+  
+    
+
+  }
+
+
+  .logo:hover{
+      background-color:  #f26522;
+  }
+
+  .logtext{
+      margin-top: 47px;
+      margin-left: 100px;
+      color: white;
+      font-size: 24px;
+      font-weight: bold;
+  }
+ .logtext:hover{
+     color:#f26522;
+ }
+  .milan{
+      font-size: 24px;
+      text-transform: uppercase;
+      
+      letter-spacing: 2px;
+      
+
+  }
+ 
+  .holidays{
+      text-transform: uppercase;
+      font-size: 13px;
+      
+      font-weight: bold;
+      letter-spacing: 2px;
+  }
+  .holidays:hover{
+      color: #f26522;
+  }
+  a{
+      text-decoration: none;
+  }
+  a:visited{
+      color:white;
+
+  }
+  .mail{
+      margin-right: 150px;
+      margin-left: 1000px;
+      font-size: 16px;
+      float:right;
+      margin-top: -60px;
+      text-align: right;
+      padding-bottom: 8px;
+
+  }
+  .main-block{
+margin-top: 50px;
+margin-left: 155px;
+
+
+  }
+  .img{
+      float: left;
+      text-align: center;
+    
+  }
+
+
+
+  .img:hover{
+      color:#f26522;
+     
+     
+  }
+  .imag{
+      
+      margin-left: 141px;
+     margin-bottom: 300px;
+
+  }
+ 
+  .tour{
+      color: white;
+      text-align: center;
+      margin-bottom: 150px;
+      margin-right: 440px;
+  }
+  .tour:hover{
+      color:#f26522;
+  }
+
+  .im{
+      float: right;
+      margin-top: -390px;
+      margin-right: 150px;
+      text-align: center;
+  }
+  .im:hover{
+      color:#f26522;
+  }
+  .image{
+      float:left;
+      margin-top: -1px;
+      text-align: center;
+
+  }
+  .image:hover{
+      color:#f26522;
+  }
+ .images{
+   margin-top: -800px;
+   margin-left: 141px;
+   padding-top: -800px;
+ }
+ .art{
+     text-align: center;
+     color: white;
+     margin-right: 440px;
+     margin-top: 10px;
+     font-size: 16px;
+     
+ }
+ .art:hover{
+     color:#f26522;
+ }
+ .imagess{
+     float: right;
+     margin-top: -256px;
+     margin-right: 150px;
+     text-align: center;
+ }
+ .imagess:hover{
+     color:#f26522;
+ }

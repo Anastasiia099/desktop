@@ -1,0 +1,246 @@
+body{
+   font-family: 'Arimo', sans-serif;
+   background:#3a4965;
+	padding-top: 24px;
+   background-attachment: fixed; 
+	
+}
+.container{
+   width: 97%;
+  
+   align-items: center;
+   margin-left: 24px;
+   margin-bottom: 34px;
+ }
+
+table{
+
+	background-color: #fafafa;
+	float:center;
+	width:100%;
+   border-spacing: 0px;
+}
+
+.one-rows{
+   height: 87px;
+}
+tr {
+   box-shadow: inset -5px 0 5px -5px rgba(0, 0, 0, 0.27);
+}
+
+td{
+   box-shadow: inset -5px 0 5px -5px rgba(0, 0, 0, 0.27);
+}
+.column{
+   background-color: white;
+   padding-top: 28px;
+   padding-bottom: 25px;
+   color: black;
+   width: 300px;
+   
+}
+
+.rows1{
+   font-size: 13px;
+   margin-top: 26px;
+   float: center;
+  }
+
+.rows2{
+   font-size: 21px;
+   margin-top: -13px;
+   float: center;
+}
+
+.column2{
+   background-color: #89c331;
+   padding-top: 28px;
+   padding-bottom: 25px;
+   font-size: 18px;
+   color: white;
+   width: 277px;
+   
+}
+th{
+box-shadow: inset -5px 0 5px -5px rgba(0, 0, 0, 0.27);
+}
+.column3{
+   background-color: #f04a56;
+   padding-top: 28px;
+   padding-bottom: 25px;
+   font-size: 18px;
+   color: white;
+   width: 277px;
+   
+}
+.column4{
+   background-color: #20807c;
+   padding-top: 28px;
+   padding-bottom: 25px;
+   font-size: 18px;
+   color: white;
+   width: 277px;
+}
+
+.price{
+   color:  #484848;
+   font-size: 60px;
+   font-weight: 700;
+   margin-top: 25px;
+   margin-left: 26px;
+   margin-bottom: 35px;
+   line-height: 28px;
+   text-align: left;
+   float: left;    
+}
+
+.month{
+   font-weight: 400;
+   line-height: 28px;
+   text-align: left;
+   margin-top: -23px;
+   font-size: 18px;    
+}
+
+.cent{
+   color:  #484848;
+   font-size: 24px;    
+   margin-left: 10px;
+   font-weight: 700;
+   line-height: 28px;
+   text-align: left;
+   margin-top: 12px;
+}
+
+.rows{
+   height: 70px;
+}
+
+.storage{
+   color:  #484848;
+   font-weight: 400;
+   line-height: 28px;
+   text-align: center;
+   font-size: 16px;   
+}
+.fa-archive{
+   margin-right: 14px;
+   vertical-align: bottom;
+   margin-bottom: -3px;
+   
+}
+
+
+.rows  td{
+   color:  #484848;
+   font-weight: 400;
+   line-height: 28px;
+   text-align: center;
+   font-size: 16px;    
+}
+
+.while{
+   background-color:  #f2f2f2;
+}
+.fa-envelope{
+   margin-right: 14px;
+   margin-bottom: -6px;
+}
+.fa-cube{
+   margin-right: 14px;
+   margin-bottom: -3px;
+}
+.grey{
+   background-color:  #e3e3e3;
+}
+.fa-life-ring{
+   margin-right: 14px;
+   
+}
+.fa-cloud-upload{
+   margin-right: 14px;
+   vertical-align: bottom;
+   margin-bottom: -3px;
+}
+.fa-users{
+   margin-right: 14px;
+   
+}
+.footer{
+   text-align: center;
+   vertical-align: middle;
+   margin: 15px 0;
+}
+.button1{
+   border: 0px solid #404040;
+   background-color: #484848;
+   border-width: 0px 0px 5px 0px;
+   padding: 18px;
+   margin: 25px 0;
+   color: #ffffff;
+   width: 192px;
+   height: 49px;
+   cursor: pointer;
+   border-radius: 5px;    
+}
+
+.button1:hover{
+   border: 0px solid #484848;
+   border-width: 0px 0px 5px 0px;
+   background-color: #404040;
+}
+
+.button2{
+   border: 0px solid #79b027;
+   background-color: #89c331;
+   border-width: 0px 0px 5px 0px;
+   padding: 18px;
+   margin: 25px 0;
+   color: #ffffff;
+   width: 192px;
+   height: 49px;
+   cursor: pointer;
+   border-radius: 5px;    
+}
+
+.button2:hover{
+   border: 0px solid #89c331;
+   border-width: 0px 0px 5px 0px;
+   background-color: #79b027;
+}
+
+.button3{
+   border: 0px solid #df3a46;
+   background-color: #f04a56;
+   border-width: 0px 0px 5px 0px;
+   padding: 18px;
+   margin: 25px 0;
+   color: #ffffff;
+   width: 192px;
+   height: 49px;
+   cursor: pointer;
+   border-radius: 5px;
+}
+
+.button3:hover{
+   border: 0px solid #f04a56;
+   border-width: 0px 0px 5px 0px;
+   background-color: #df3a46;
+}
+.button4{
+   background-color: #20807c;
+   border: 0px solid #16736f;
+   border-width: 0px 0px 5px 0px;
+   padding: 18px;
+   margin: 25px 0;
+   color: #ffffff;
+   width: 192px;
+   height: 49px;
+   cursor: pointer;
+   border-radius: 5px;
+}
+.button4:hover{
+   border: 0px solid #20807c;
+   border-width: 0px 0px 5px 0px;
+   background-color: #16736f;
+}
